@@ -1,1 +1,1 @@
-# Image-Classifier-Discord-Bot
+# Image Classifier Discord Bot
